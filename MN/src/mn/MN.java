@@ -12,7 +12,7 @@ package mn;
 public class MN {
 
     /**
-     * @param args the command line arguments
+     * @param arwñpouoidjsiuahsiohaiusdhiopo    jsioommand line arguments
      */
     public static void main(String[] args) {
         // TODO .KANSCILHSUDHUIAshdkjnasopkspiadkcode application logic here
